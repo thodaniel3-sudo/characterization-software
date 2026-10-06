@@ -1,0 +1,11 @@
+file,magnification,eht_kv,wd_mm,pixel_size_nm,beam_current_uA,aperture_um,date,time,detector
+101.tif,200.00 K X,3.00 kV,5.0 mm,1.470 nm,80.0 µA,35.00 µm,1-Aug-26,12:29:09,Signal A
+102.tif,100.00 K X,3.00 kV,5.0 mm,2.939 nm,80.0 µA,35.00 µm,1-Aug-26,12:29:36,Signal A
+103.tif,500.00 K X,3.00 kV,5.879 pm,80.0 µA,35.00 µm,1-Aug-26,12:30:36,Signal A
+104.tif,500.00 K X,3.00 kV,5.879 pm,80.0 µA,35.00 µm,1-Aug-26,12:30:36,Signal A
+105.tif,50.00 K X,3.00 kV,5.0 mm,5.879 nm,80.0 µA,35.00 µm,1-Aug-26,12:31:57,Signal A
+106.tif,100.00 K X,3.00 kV,5.0 mm,2.939 nm,80.0 µA,35.00 µm,1-Aug-26,12:32:16,Signal A
+107.tif,150.00 K X,3.00 kV,5.0 mm,1.960 nm,80.0 µA,35.00 µm,1-Aug-26,12:33:17,Signal A
+108.tif,200.00 K X,3.00 kV,5.0 mm,1.470 nm,80.0 µA,35.00 µm,1-Aug-26,12:33:37,Signal A
+109.tif,200.00 K X,3.00 kV,5.0 mm,1.470 nm,80.0 µA,35.00 µm,1-Aug-26,12:33:37,Signal A
+110.tif,100.00 K X,3.00 kV,5.1 mm,2.939 nm,80.0 µA,35.00 µm,1-Aug-26,12:48:19,Signal A

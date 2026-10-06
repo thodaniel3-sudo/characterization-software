@@ -1,0 +1,21 @@
+﻿parameter,method,value,unit
+BET surface area,Multi-point BET,57.239,m2/g
+External surface area (t-plot),t-plot (deBoer),57.239,m2/g
+Micropore area (t-plot),t-plot (deBoer),0,m2/g
+Micropore volume (t-plot),t-plot (deBoer),0,cm3/g
+BJH surface area (adsorption),BJH,53.4164,m2/g
+BJH pore volume (adsorption),BJH,0.409953,cm3/g
+BJH mode pore radius (adsorption),BJH,2.5872,nm
+BJH surface area (desorption),BJH,77.6597,m2/g
+BJH pore volume (desorption),BJH,0.418254,cm3/g
+BJH mode pore radius (desorption),BJH,7.70851,nm
+HK mode half pore width,Horvath-Kawazoe,0.21575,nm
+HK micropore volume,Horvath-Kawazoe,0.035956,cm3/g
+Kr87 mode pore radius,Kr87 PSD,3.00305,nm
+DFT pore volume,DFT (desorption branch augmented),0.3647,cm3/g
+DFT surface area,DFT (desorption branch augmented),66.5704,m2/g
+DFT lower confidence limit,DFT,1.432,nm
+DFT mode pore width,DFT,22.127,nm
+DFT fitting error,DFT,1.2361,%
+DFT average pore diameter,DFT,17.0262,nm
+Total pore volume,Single point (p/p0=0.9679),0.2436,cm3/g
